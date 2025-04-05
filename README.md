@@ -16,19 +16,19 @@
         <img id="lara" class="headerpics" src="http://1h3.googleusercontent.com/-zkPWifjxy1M/AAAAAAAAAAI/AAAAAAAAAA/7pAAlFnncq4/s32-c/phto.jpg" />
     </header>
     <div>
-        <img src="https://www.google.com/images/srpr/logo11w.png"/>
-        <form name="google" action="#" method="Post"><br><center>
+        <img src="https://www.google.com/images/srpr/logo11w.png"/><center></center>
+        <form name="google" action="#" method="Post"><br><center></center>
             <input type="search" class="search"><br>
             <input type="submit" class="button" name="submit" value="Google Search">
             <input type="submit" class="button" name="lucky" value="I'm Feeling Lucky">
         </form>
     </div>
     <footer><center>
-        <a class="leftlinks" href="https://www.google.com/intl/en/ads/?fg=1">Advertising</a><center>
-        <a class="leftlinks" href="https://www.google.com/service/?fg=1">Business</a><center>
-        <a class="leftlinks" href="https://www.google.com/intl/en/about/">About</a><center>
-        <a class="leftlinks" href="https://www.google.com/preference?h1=en">Setting</a><center>
-        <a class="leftlinks" href="https://www.google.com/intl/en/policies/?fg=1">Privacy & Terms</a><center>
+        <a class="leftlinks" href="https://www.google.com/intl/en/ads/?fg=1">Advertising</a><center></center>
+        <a class="leftlinks" href="https://www.google.com/service/?fg=1">Business</a><center></center>
+        <a class="leftlinks" href="https://www.google.com/intl/en/about/">About</a><center></center>
+        <a class="leftlinks" href="https://www.google.com/preference?h1=en">Setting</a><center></center>
+        <a class="leftlinks" href="https://www.google.com/intl/en/policies/?fg=1">Privacy & Terms</a><center></center>
     </footer>
 </body>
 
