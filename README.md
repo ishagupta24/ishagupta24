@@ -8,7 +8,6 @@
 
 <body>
     <header>
-        <a  href="https://plus.google.com/u/0/up/follow"><center>+Lara</a>
         <a href="https://mail.google.com">Gmail</a>
         <a href="https://www.google.com/imghp?h1=en&tab=wi&ei=0x1NVMXuJY03yATCjoFA&ved=0CAQQqi4oA">Images</a>
         <img di="products" src="products.png" />
