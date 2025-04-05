@@ -23,12 +23,12 @@
             <input type="submit" class="button" name="lucky" value="I'm Feeling Lucky">
         </form>
     </div>
-    <footer><center>
-        <a class="leftlinks" href="https://www.google.com/intl/en/ads/?fg=1">Advertising</a><center></center>
-        <a class="leftlinks" href="https://www.google.com/service/?fg=1">Business</a><center></center>
-        <a class="leftlinks" href="https://www.google.com/intl/en/about/">About</a><center></center>
-        <a class="leftlinks" href="https://www.google.com/preference?h1=en">Setting</a><center></center>
-        <a class="leftlinks" href="https://www.google.com/intl/en/policies/?fg=1">Privacy & Terms</a><center></center>
+    <footer>
+       <center> <a class="leftlinks" href="https://www.google.com/intl/en/ads/?fg=1">Advertising</a></center>
+       <center> <a class="leftlinks" href="https://www.google.com/service/?fg=1">Business</a></center>
+      <center>  <a class="leftlinks" href="https://www.google.com/intl/en/about/">About</a></center>
+        <center><a class="leftlinks" href="https://www.google.com/preference?h1=en">Setting</a></center>
+       <center> <a class="leftlinks" href="https://www.google.com/intl/en/policies/?fg=1">Privacy & Terms</a></center>
     </footer>
 </body>
 
