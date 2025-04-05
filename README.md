@@ -5,7 +5,7 @@
 
 <head>
     <link rel="stylesheet" type="text/css" href="style.css">
-    <link rel="shortcut icon" type="image/png" href="favicon.ico" />
+    <link rel="shortcut icon" type="image/png" href="favicon.ico"/>
     <title>Google</title>
 </head>
 
@@ -14,9 +14,9 @@
         <a  href="https://plus.google.com/u/0/up/follow"><center>+Lara</a>
         <a href="https://mail.google.com">Gmail</a>
         <a href="https://www.google.com/imghp?h1=en&tab=wi&ei=0x1NVMXuJY03yATCjoFA&ved=0CAQQqi4oA">Images</a>
-        <img di="products" src="products.png" />
-        <img id="bell" src="bell.png" />
-        <img id="share' src='share.png" />
+        <img di="products" src="products.png"/>
+        <img id="bell" src="bell.png"/>
+        <img id="share' src='share.png"/>
         <img id="lara" class="headerpics" src="http://1h3.googleusercontent.com/-zkPWifjxy1M/AAAAAAAAAAI/AAAAAAAAAA/7pAAlFnncq4/s32-c/phto.jpg" />
     </header>
     <div>
